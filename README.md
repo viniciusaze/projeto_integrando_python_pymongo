@@ -1,6 +1,6 @@
 # Projeto: Integrando Python com MongoDB Atlas
 
-<img loading="lazy" src="https://github.com/viniciusaze/projeto_integrando_python_pymongo/blob/main/image_project.jpg?raw=true" width="680" height="210"/>
+<img loading="lazy" src="https://github.com/viniciusaze/projeto_integrando_python_pymongo/blob/main/image_project.jpg?raw=true" width="680" height="230"/>
 
 ## Este projeto é um desafio do Curso de Formação Python Developer da DIO!
 
@@ -17,5 +17,5 @@ Neste projeto foram propostas as seguintes demandas:
 - Escreve instruções de recuperação de informações com base nos pares de chave e valor como feito em aula
 
 
-Link do código de inserção de dados: https://github.com/viniciusaze/projeto_integrando_python_pymongo/blob/main/submit_data_mongodb.py
+Link do código de inserção de dados: https://github.com/viniciusaze/projeto_integrando_python_pymongo/blob/main/submit_data_mongodb.py <br>
 Link do código de visualização e pesquisa de dados: https://github.com/viniciusaze/projeto_integrando_python_pymongo/blob/main/checking_data.py

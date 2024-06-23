@@ -1,6 +1,6 @@
 # Projeto: Integrando Python com MongoDB Atlas
 
-<img loading="lazy" src="https://github.com/viniciusaze/projeto_integrando_python_pymongo/blob/main/image_project.jpg?raw=true" width="650" height="180"/>
+<img loading="lazy" src="https://github.com/viniciusaze/projeto_integrando_python_pymongo/blob/main/image_project.jpg?raw=true" width="650" height="210"/>
 
 ## Este projeto é um desafio do Curso de Formação Python Developer da DIO!
 
